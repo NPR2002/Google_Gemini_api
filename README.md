@@ -5,3 +5,8 @@ I have created a simple prompt to get only the textual output from the Gemini
 https://makersuite.google.com/app/apikey
 
 # Please enter your api key in the code 
+
+# install the necessary library
+use the below command
+
+!pip install -q -U google-generativeai
